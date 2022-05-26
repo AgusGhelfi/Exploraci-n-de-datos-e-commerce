@@ -10,6 +10,7 @@ Con el objetivo de conocer el Churn Rate (tasa de abandono de los carritos) prod
   - Precio
   - ID del usuario
   - Sesión del usuario
+
 Luego de hacer algunos gráficos para conocer el dominio se llevo a cabo la limpieza de datos en un proceso de varias etapas:
   - Revisión, eliminación o imputación de datos Nulos.
   - Análisis de Nulos “no claros” (undefined? ceros? etc).
